@@ -29,7 +29,7 @@ This project focuses on integrating **3D Reconstruction** technology with **NFT*
 ## Technologies Used
 
 - **3D Reconstruction**: 
-  - Gaussian-splatting
+  - Gaussian-splatting (`https://github.com/graphdeco-inria/gaussian-splatting`)
   - NeuS
   - OpenCV
   - Meshroom
