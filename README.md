@@ -58,3 +58,38 @@ graph LR
     D --> E[Verification]
     F[User] --> E
 
+## Installation
+
+### Prerequisites
+
+- Python 3.x
+- Node.js
+- Solidity compiler
+- OpenCV, PCL, and other necessary libraries for 3D processing
+- An Ethereum blockchain node (e.g., Ganache for local testing)
+
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-project-name.git
+   cd your-project-name
+
+2. Install dependencies:
+   ```bash
+    pip install -r requirements.txt
+    npm install
+
+3. Compile Smart Contract:
+   ```bash
+   truffle compile
+
+4. Migrate the contracts to the blockchain:
+    ```bash
+    truffle migrate
+
+You can replace the repository URL (`https://github.com/your-username/your-project-name.git`) with your actual GitHub project link.
+
+
+
+
