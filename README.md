@@ -1,10 +1,10 @@
 # ArtNFT3D：The Integration of Photo-realistic 3D Reconstruction and NFT 
 
-![Project Logo](path_to_your_logo_image)
+![Project Logo](artnft3d-logo.jpg)
 
 ## Introduction
 
-This project focuses on integrating **3D Reconstruction** technology with **Blockchain** for secure, decentralized, and verifiable 3D data management. Our system leverages the power of blockchain to ensure the integrity and traceability of 3D models, while utilizing advanced algorithms for precise and efficient 3D reconstruction.
+This project focuses on integrating **3D Reconstruction** technology with **NFT** for secure, decentralized, and verifiable 3D data management. Our system leverages the power of blockchain to ensure the integrity and traceability of 3D models, while utilizing advanced algorithms for precise and efficient 3D reconstruction.
 
 ## Table of Contents
 
@@ -28,6 +28,8 @@ This project focuses on integrating **3D Reconstruction** technology with **Bloc
 ## Technologies Used
 
 - **3D Reconstruction**: 
+  - Gaussian-splatting
+  - NeuS
   - OpenCV
   - Meshroom
   - COLMAP
@@ -41,6 +43,7 @@ This project focuses on integrating **3D Reconstruction** technology with **Bloc
 - **Programming Languages**:
   - Python
   - C++
+  - Move (for Aptos's Move Langurage)
   - Solidity (for smart contracts)
   - JavaScript (for frontend interaction)
 
