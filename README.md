@@ -31,12 +31,15 @@ This project focuses on integrating **3D Reconstruction** technology with **NFT*
 - **3D Reconstruction**: 
   - Gaussian-splatting (`https://github.com/graphdeco-inria/gaussian-splatting`)
   - NeuS (`https://github.com/Totoro97/NeuS`)
+  - Dust3r (`https://github.com/naver/dust3r`) and Mast3r (`https://github.com/naver/mast3r`)
+  - Instant-ngp (`https://github.com/NVlabs/instant-ngp`)
   - OpenCV
   - Meshroom
-  - COLMAP
+  - COLMAP (`https://github.com/colmap/colmap`)
   - PCL (Point Cloud Library)
 
-- **Blockchain**: 
+- **Blockchain**:
+  - Aptos (`https://aptosfoundation.org/`) and (`https://aptos.dev/en/build/get-started`)
   - Ethereum Smart Contracts (Solidity)
   - IPFS (InterPlanetary File System)
   - Web3.js for blockchain integration
@@ -73,19 +76,23 @@ graph LR
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project-name.git
-   cd your-project-name
+   git clone https://github.com/arthurlirui/artnft3d-pub.git --recursive
+   cd artnft3d-pub
 
 2. Install dependencies:
    ```bash
     pip install -r requirements.txt
     npm install
 
-3. Compile Smart Contract:
+3. Install APT Python SDK
+   ```bash
+   pip3 install aptos-sdk
+
+4. Compile Smart Contract:
    ```bash
    truffle compile
 
-4. Migrate the contracts to the blockchain:
+5. Migrate the contracts to the blockchain:
     ```bash
     truffle migrate
 
