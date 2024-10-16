@@ -39,7 +39,7 @@ This project focuses on integrating **3D Reconstruction** technology with **NFT*
   - PCL (Point Cloud Library)
 
 - **Blockchain**:
-  - Aptos (`https://aptosfoundation.org/`) and (`https://aptos.dev/en/build/get-started`) [INSTALL APT SDK](install_APT.md)
+  - Aptos (`https://aptosfoundation.org/`) and (`https://aptos.dev/en/build/get-started`) [INSTALL APT SDK](artnft3d-pub/blob/master/install_APT.md)
   - Ethereum Smart Contracts (Solidity)
   - IPFS (InterPlanetary File System)
   - Web3.js for blockchain integration
