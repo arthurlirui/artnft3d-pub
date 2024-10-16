@@ -57,6 +57,7 @@ graph LR
     C --> D[Blockchain Storage]
     D --> E[Verification]
     F[User] --> E
+```
 
 ## Installation
 
