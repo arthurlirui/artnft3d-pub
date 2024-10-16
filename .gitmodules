@@ -1,1 +1,13 @@
 
+[submodule "submodules/NeuS"]
+	path = submodules/NeuS
+	url = https://github.com/Totoro97/NeuS.git
+[submodule "submodules/gaussian-splatting"]
+	path = submodules/gaussian-splatting
+	url = https://github.com/graphdeco-inria/gaussian-splatting.git
+[submodule "submodules/instant-ngp"]
+	path = submodules/instant-ngp
+	url = https://github.com/NVlabs/instant-ngp.git
+[submodule "submodules/dust3r"]
+	path = submodules/dust3r
+	url = https://github.com/naver/dust3r.git
