@@ -1,4 +1,5 @@
-# ArtNFT3D：The Integration of Photo-realistic 3D Reconstruction and NFT 
+# ArtNFT3D
+### The Integration of Photo-realistic 3D Reconstruction and NFT 
 
 ![Project Logo](artnft3d-logo.jpg)
 
