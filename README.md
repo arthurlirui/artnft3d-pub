@@ -96,8 +96,6 @@ graph LR
     ```bash
     truffle migrate
 
-You can replace the repository URL (`https://github.com/your-username/your-project-name.git`) with your actual GitHub project link.
-
 
 
 
